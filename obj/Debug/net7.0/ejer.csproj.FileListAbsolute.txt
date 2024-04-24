@@ -1,0 +1,14 @@
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.AssemblyInfoInputs.cache
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.AssemblyInfo.cs
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.csproj.CoreCompileInputs.cache
+C:\Users\Roque\Desktop\labo2\ejer\bin\Debug\net7.0\ejer.exe
+C:\Users\Roque\Desktop\labo2\ejer\bin\Debug\net7.0\ejer.deps.json
+C:\Users\Roque\Desktop\labo2\ejer\bin\Debug\net7.0\ejer.runtimeconfig.json
+C:\Users\Roque\Desktop\labo2\ejer\bin\Debug\net7.0\ejer.dll
+C:\Users\Roque\Desktop\labo2\ejer\bin\Debug\net7.0\ejer.pdb
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.dll
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\refint\ejer.dll
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.pdb
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ejer.genruntimeconfig.cache
+C:\Users\Roque\Desktop\labo2\ejer\obj\Debug\net7.0\ref\ejer.dll
